@@ -6,7 +6,7 @@
 
 - 이름: 박서윤
 - 나이: 2004년생 만22세 
-- 고등학교: [현대청운고등학교](https://school.use.go.kr/hcu-h)
+- 고등학교: [현대청운고등학교](https://school.use.go.kr/hcu-h) 18기
 - 대학교: [이화여자대학교 컴퓨터공학과](https://cse.ewha.ac.kr/cse/index.do) 24학번
 
 <br>
