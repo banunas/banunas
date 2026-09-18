@@ -27,7 +27,6 @@
 - 웹개발 연합 동아리 [피로그래밍](https://pirogramming.com/) 25기 운영진 활동 <sub>2026.03. - 2026.08.</sub>
 - 돕는 기술 프로젝트 기반 [테크포임팩트 캠퍼스](https://techforimpact.io/campus/info) 수료 <sub>2026.03. - 2026.06.</sub>
 - 웹개발 연합 동아리 [피로그래밍](https://pirogramming.com/) 24기 활동 <sub>2025.12. - 2026.02.</sub>
-- 이화여자대학교 컴퓨터공학과 재학 <sub>2024.03. - </sub>
 
 <br>
 
