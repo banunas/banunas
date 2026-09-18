@@ -73,12 +73,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seoyoon1@ewha.ac.kr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%B0%95%EC%84%9C%EC%9C%A4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%ED%95%99-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EA%B3%BC-124254402/)
 [![Tistory](https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=tistory&logoColor=white)](https://banu71.tistory.com/)
-
-<br>
-
-## Pinned
-
-<p align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=banunas&utcOffset=9&theme=default" />
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=banunas&theme=default" />
-</p>
